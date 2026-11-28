@@ -1,1 +1,9 @@
-Hola equipo
+BIENVENIDOS A NUESTRO PROYECTO
+
+Hola equipo.
+
+Somos estudiantes de Ingeniería de Software y estamos realizando una práctica sobre el control de versiones utilizando Git y GitHub.
+
+En esta actividad aprenderemos a crear repositorios, guardar cambios mediante commits y compartir nuestros archivos.
+
+¡Trabajemos en equipo!
