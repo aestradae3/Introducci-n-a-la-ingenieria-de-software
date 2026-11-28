@@ -1,1 +1,11 @@
-Integrante 1: Aaron Estrada - Ingenieria de Software - UNEMI
+INTEGRANTES DEL EQUIPO
+
+Integrante 1: [Leonardo Castro Cardenas]
+Integrante 2: [Ellian Pesantes Flores]
+Integrante 3: [Aaron Estrada Encalada] 
+
+ASIGNATURA: [Introduccion a la ingenieria]
+
+ACTIVIDAD: Examen Práctico 2
+
+TEMA: Control de versiones con Git y GitHub
